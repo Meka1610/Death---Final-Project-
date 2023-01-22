@@ -4,17 +4,22 @@
 ## Communication Protocols / Strategies
 
 ---
-Private Slack Channel created (includes all group members)
-All group memershave shared pone and personal email infomation in case of urgent issues
-Meetings via Slack huddle
+Private Slack Channel created (includes group members)
+Group members have shared phone and personal email infomation in case of urgent issues
+Meetings via Slack huddle, in-person 
 
+---
 ## Presentation
+
+---
+
+The presentation wil be created using google slides
 
 ---
 #### Topic Selected:
   
 ---
-  Death Rates for the top 10 causes of death
+Death Rates for the top 10 causes of death
   
 ---
 #### Rationale for Topic Selection: 
@@ -26,7 +31,7 @@ As society changes, so to does the way we live. In some cases, these changes pro
 #### Source Data: 
   
 ---
-  This data was compiled from death certificates in all 50 states and Washington, DC. [Leading Causes of Death in the United States](https://www.kaggle.com/datasets/mattop/leading-causes-of-death-in-the-united-states) includes total deaths and age-adjusted death rates (rate per 100,000 people) by state for ten common causes of death from 1999 to 2017. 
+This data was compiled from death certificates in all 50 states and Washington, DC. [Leading Causes of Death in the United States](https://www.kaggle.com/datasets/mattop/leading-causes-of-death-in-the-united-states) includes total deaths and age-adjusted death rates (rate per 100,000 people) by state for ten common causes of death from 1999 to 2017. 
 
 ---
 #### Questions to Answer:
