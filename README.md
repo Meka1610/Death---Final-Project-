@@ -4,9 +4,9 @@
 ## Communication Protocols / Strategies
 
 ---
-Private Slack Channel created (includes group members)
-Group members have shared phone and personal email infomation in case of urgent issues
-Meetings via Slack huddle, in-person 
+- Private Slack Channel created (includes group members)
+- Group members have shared phone and personal email infomation in case of urgent issues
+- Meetings via Slack huddle, in-person 
 
 ---
 ## Presentation
