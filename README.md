@@ -43,7 +43,7 @@ This data was compiled from death certificates in all 50 states and Washington, 
 - Do advances in medicine and technology correlate to changes in the death rate of related causes of death?
 
 ---
-### Machine Learning Model
+#### Machine Learning Model
 
 ---
 The Random Forest Regression model will be used to predict Death rates for a given year based on the cause of death and the state of residence. The data will be trained two ways: Using the data from 1999-2012 as the training set, and 2012 to 2017 as the test data set. Alternatively, the data will be split randomly 70% / 30% train / test data sets. 
