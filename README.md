@@ -42,12 +42,4 @@ This data was compiled from death certificates in all 50 states and Washington, 
 - Do changes in society correlate to increases or decreases in the death rate of related causes ofdeath?
 - Do advances in medicine and technology correlate to changes in the death rate of related causes of death?
 
----
-Steps taken to complete analysis. Take the time to point out interesting code. 
 
----
-#### Conclusion
-
----
-
-#### Observations
